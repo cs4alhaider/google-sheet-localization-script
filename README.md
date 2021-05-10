@@ -1,4 +1,4 @@
-# google-sheet-localization-script
+# [Draft] google-sheet-localization-script
 Export all localized strings in the sheet to google drive for more than n* of languages
 
 Get more information about google sheet scripts and how it works at →  https://developers.google.com/apps-script/guides/sheets 
